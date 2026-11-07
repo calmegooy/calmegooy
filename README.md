@@ -12,7 +12,7 @@
 
 ---
 
-### 👨‍💻 ABOUT ME
+### ABOUT ME
 
 ## Nice to meet you. I'm Yoga Adiyatma <img src="https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/gifs/wave.gif" width="24" />
 
@@ -20,12 +20,12 @@ A creative editor and web developer who enjoys connecting visual thinking with f
 
 `VISUAL STORYTELLING` &nbsp;•&nbsp; `WEB DEVELOPMENT` &nbsp;•&nbsp; `GRAPHIC DESIGN` &nbsp;•&nbsp; `VIDEO EDITING` &nbsp;•&nbsp; `UI/UX DESIGN`
 
-- 🚀 **03+ Years Creating** — Professional & academic practice
-- 🎯 **02 Core Disciplines** — Visual Storytelling × Web Systems
+- **03+ Years Creating** — Professional & academic practice
+- **02 Core Disciplines** — Visual Storytelling × Web Systems
 
 ---
 
-### 🛠️ CREATIVE & TECHNICAL STACK
+### CREATIVE & TECHNICAL STACK
 
 **Modern Web Foundation & Cloud**  
 HTML5 • CSS3 • JavaScript • TypeScript • React 19 • Next.js 16 • Vue.js • Astro • Node.js • Laravel • PHP • Tailwind CSS v4 • Google Cloud Platform • Git • Figma
