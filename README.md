@@ -66,6 +66,108 @@
 
 <hr/>
 
+<!-- ===================================================================== -->
+<!-- 02 / CREATIVE & TECHNICAL STACK                                       -->
+<!-- ===================================================================== -->
+<table width="100%" border="0" cellspacing="0" cellpadding="12">
+  <tr>
+    <td width="22%" valign="top">
+      <sub><b>CREATIVE STACK</b></sub><br/>
+      <sub><code>(02)</code></sub><br/>
+      <sub><i>Capabilities</i></sub>
+    </td>
+    <td width="78%" valign="top">
+      <h2>Tools change. Taste stays.</h2>
+      <p>
+        <b>Technical Capability — Modern Web Foundation</b><br/>
+        <sub>HTML5 · CSS3 · JavaScript · TypeScript · React 19 · Next.js 16 · Vue.js · Astro · Node.js · Laravel · PHP · Tailwind CSS v4 · Google Cloud Platform · Git · Figma</sub>
+      </p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,astro,nodejs,laravel,php,tailwind,gcp,git,github&theme=dark&perline=15" />
+      </p>
+      <br/>
+      <p>
+        <b>Creative Production Suite & Proficiency Matrix</b><br/>
+        <sub>Combinations of tools used to design, engineer, and execute ideas into visual & interactive products.</sub>
+      </p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=figma,ps,pr,ai,ae,vscode&theme=dark&perline=12" />
+      </p>
+      <table width="100%" border="0" cellspacing="0" cellpadding="6">
+        <thead>
+          <tr align="left">
+            <th>Mark</th>
+            <th>Tool</th>
+            <th>Focus Area</th>
+            <th>Level</th>
+            <th>Proficiency</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><code>Cv</code></td>
+            <td><b>Canva</b></td>
+            <td>Quick Design & Social Media Assets</td>
+            <td>Expert</td>
+            <td><code>████████░░ 80%</code></td>
+          </tr>
+          <tr>
+            <td><code>Cc</code></td>
+            <td><b>CapCut</b></td>
+            <td>Short-form Video & Social Media Dynamics</td>
+            <td>Expert</td>
+            <td><code>███████▌░░ 75%</code></td>
+          </tr>
+          <tr>
+            <td><code>Fg</code></td>
+            <td><b>Figma</b></td>
+            <td>UI/UX, Wireframe & Interactive Prototype</td>
+            <td>Advanced</td>
+            <td><code>██████▌░░░ 65%</code></td>
+          </tr>
+          <tr>
+            <td><code>Pr</code></td>
+            <td><b>Premiere Pro</b></td>
+            <td>Video Editing & Color Grading</td>
+            <td>Advanced</td>
+            <td><code>█████░░░░░ 50%</code></td>
+          </tr>
+          <tr>
+            <td><code>Ps</code></td>
+            <td><b>Photoshop</b></td>
+            <td>Retouching & Digital Imaging</td>
+            <td>Advanced</td>
+            <td><code>█████░░░░░ 50%</code></td>
+          </tr>
+          <tr>
+            <td><code>Ai</code></td>
+            <td><b>Illustrator</b></td>
+            <td>Vector, Logo & Branding</td>
+            <td>Intermediate</td>
+            <td><code>████░░░░░░ 40%</code></td>
+          </tr>
+          <tr>
+            <td><code>Ae</code></td>
+            <td><b>After Effects</b></td>
+            <td>Motion Graphics & Visual Effects</td>
+            <td>Intermediate</td>
+            <td><code>███▌░░░░░░ 35%</code></td>
+          </tr>
+        </tbody>
+      </table>
+    </td>
+  </tr>
+</table>
+
+<hr/>
+
+<!-- ===================================================================== -->
+<!-- 03 / GITASCII BENTO PROFILE CARD                                      -->
+<!-- ===================================================================== -->
+<div align="center">
+  <img src="https://gitascii.com/api/calmegooy?theme=bento" width="100%" />
+</div>
+
 <br/>
 
 <!-- EDITORIAL FOOTER -->
