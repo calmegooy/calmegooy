@@ -105,13 +105,6 @@
         </thead>
         <tbody>
           <tr>
-            <td><code>Cv</code></td>
-            <td><b>Canva</b></td>
-            <td>Quick Design & Social Media Assets</td>
-            <td>Expert</td>
-            <td><code>████████░░ 80%</code></td>
-          </tr>
-          <tr>
             <td><code>Cc</code></td>
             <td><b>CapCut</b></td>
             <td>Short-form Video & Social Media Dynamics</td>
