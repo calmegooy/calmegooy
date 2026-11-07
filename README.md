@@ -1,16 +1,85 @@
-## Hi there 👋
+<!-- ===================================================================== -->
+<!-- YOGA ADIYATMA — PORTFOLIO REPOSITORY & EDITORIAL DOCUMENTATION        -->
+<!-- Inspired by Tparkes (Broadsheet) & Charlie Phipps (Editorial System)  -->
+<!-- ===================================================================== -->
 
-<!--
-**calmegooy/calmegooy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="left" valign="middle">
+      <b>YOGA.</b> &nbsp;·&nbsp; <sub><code>@calmegooy</code></sub>
+    </td>
+    <td align="right" valign="middle">
+      <a href="https://yogaadiyatmaportofolio.netlify.app/"><b>Live Portfolio ↗</b></a> &nbsp;&nbsp;&nbsp;
+      <a href="https://gooystudio.my.id/"><b>Gooy Studio ↗</b></a> &nbsp;&nbsp;&nbsp;
+      <a href="https://www.linkedin.com/in/yoga-adiyatma"><b>LinkedIn ↗</b></a> &nbsp;&nbsp;&nbsp;
+      <a href="mailto:yoogzz72@gmail.com"><b>Contact ↗</b></a>
+    </td>
+  </tr>
+</table>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- ===================================================================== -->
+<!-- 01 / OVERVIEW & MANIFESTO                                             -->
+<!-- ===================================================================== -->
+<table width="100%" border="0" cellspacing="0" cellpadding="12">
+  <tr>
+    <td width="22%" valign="top">
+      <sub><b>ABOUT ME</b></sub><br/>
+      <sub><code>(01)</code></sub><br/>
+      <sub><i>Creative × Code</i></sub>
+    </td>
+    <td width="78%" valign="top">
+      <h2>
+        Nice to meet you. I'm Yoga Adiyatma <img src="https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/gifs/wave.gif" width="26" />
+      </h2>
+      <p>
+        A creative editor and web developer who enjoys connecting visual thinking with functional systems. I am currently pursuing a Bachelor's degree in <b>Information Systems at Universitas AMIKOM Yogyakarta</b>, where I also serve as <b>Coordinator of Lab Assistants for Advanced Web Programming</b>, Project Leader of <b>NutriVerse (2nd Place AMICTA 2026)</b>, and lead <b><a href="https://gooystudio.my.id/">Gooy Studio ↗</a></b>.
+      </p>
+      <p>
+        <code>VISUAL STORYTELLING</code> &nbsp;·&nbsp; <code>WEB DEVELOPMENT</code> &nbsp;·&nbsp; <code>GRAPHIC DESIGN</code> &nbsp;·&nbsp; <code>VIDEO EDITING</code> &nbsp;·&nbsp; <code>UI/UX DESIGN</code>
+      </p>
+      <table width="100%" border="0" cellspacing="0" cellpadding="8">
+        <tr>
+          <td width="33%">
+            <h3>03+</h3>
+            <sub><b>Years Creating</b><br/>Professional & academic practice</sub>
+          </td>
+          <td width="33%">
+            <h3>22</h3>
+            <sub><b>Portfolio Slides</b><br/>Curated visual design archive</sub>
+          </td>
+          <td width="33%">
+            <h3>02</h3>
+            <sub><b>Core Disciplines</b><br/>Visual Storytelling × Web Dev</sub>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="https://media1.tenor.com/m/IGKWOQF8CeYAAAAC/naruto-konoha.gif" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=101011&height=150&section=header&text=Crafting%20visuals%20that%20speak.&fontSize=50&fontColor=ffffff&fontAlign=12&fontAlignY=44&desc=YOGA%20ADIYATMA%20%E2%80%94%20Creative%20Editor%20%26%20Full-Stack%20Web%20Developer%20%E2%80%94%20Yogyakarta,%20ID.&descSize=14&descAlign=33&descAlignY=74" width="100%" />
+</div>
+
+<!-- EDITORIAL FOOTER -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="left">
+      <sub>
+        <b>YOGA ADIYATMA</b> — Creative Editor & Web Developer.<br/>
+        Yogyakarta, Indonesia · © 2026 All rights reserved.
+      </sub>
+    </td>
+    <td align="right">
+      <sub>
+        <a href="mailto:yoogzz72@gmail.com">yoogzz72@gmail.com ↗</a> &nbsp;·&nbsp;
+        <a href="https://wa.me/628970475164">+62 897-0475-164 ↗</a> &nbsp;·&nbsp;
+        <a href="https://instagram.com/yoogzz">Instagram (@yoogzz) ↗</a> &nbsp;·&nbsp;
+        <a href="https://tiktok.com/@calmegooy">TikTok (@calmegooy) ↗</a>
+      </sub>
+    </td>
+  </tr>
+</table>
