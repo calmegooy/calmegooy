@@ -17,6 +17,11 @@
   </tr>
 </table>
 
+<div align="center">
+  <img src="https://media1.tenor.com/m/IGKWOQF8CeYAAAAC/naruto-konoha.gif" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=101011&height=150&section=header&text=Crafting%20visuals%20that%20speak.&fontSize=50&fontColor=ffffff&fontAlign=12&fontAlignY=44&desc=YOGA%20ADIYATMA%20%E2%80%94%20Creative%20Editor%20%26%20Full-Stack%20Web%20Developer%20%E2%80%94%20Yogyakarta,%20ID.&descSize=14&descAlign=33&descAlignY=74" width="100%" />
+</div>
+
 <br/>
 
 <!-- ===================================================================== -->
@@ -59,10 +64,9 @@
   </tr>
 </table>
 
-<div align="center">
-  <img src="https://media1.tenor.com/m/IGKWOQF8CeYAAAAC/naruto-konoha.gif" width="100%" />
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=101011&height=150&section=header&text=Crafting%20visuals%20that%20speak.&fontSize=50&fontColor=ffffff&fontAlign=12&fontAlignY=44&desc=YOGA%20ADIYATMA%20%E2%80%94%20Creative%20Editor%20%26%20Full-Stack%20Web%20Developer%20%E2%80%94%20Yogyakarta,%20ID.&descSize=14&descAlign=33&descAlignY=74" width="100%" />
-</div>
+<hr/>
+
+<br/>
 
 <!-- EDITORIAL FOOTER -->
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
